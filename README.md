@@ -1,6 +1,6 @@
 # twitter_follow_management
 twitterのフォローマネージャー ver1.0<br>
-[詳しくはこちら](https://blog.yuki0311.com/ "詳しくはこちら")
+[詳しくはこちら](https://blog.yuki0311.com/twitter_follow_management/ "詳しくはこちら")
 
 # Installation
 このサイトの*Clone or download*から*Download ZIP*を選択してファイルをダウンロードして展開
